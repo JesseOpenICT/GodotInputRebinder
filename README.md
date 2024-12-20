@@ -11,8 +11,7 @@ IMPORTANT
 /!\ Everything is saved to a seperate JSON file.
 
 
-
-This folder contains:
+This project contains:
 - keybind.gd
   - This script should be added as a global variable.
   - It waits for its "looking" variable to be set to an input, then changes that input's keybind when a button is pressed.
